@@ -1,0 +1,1 @@
+﻿python -m py_compile yourcodeName.py      #To get the byte code of Python Simple learn this command in command line. don't forget to map your path correctly.
